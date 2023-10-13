@@ -37,3 +37,4 @@ const myfunction = function(){ //  function ka datatype hamesha object function 
     console.log("hello world");
 }
 console.log(typeof myfunction);
+console.log(typeof myobject)
